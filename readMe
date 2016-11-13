@@ -1,0 +1,17 @@
+I have completed and tested all the way to stage7 as stated
+in the project assignment. (100 points)
+
+
+Termination of peers: For each input, each router should print
+the average number of rounds the queue becomes empty before
+finding a message.
+
+What is the smallest value of num_Empty so that all messages get
+propagated?
+
+
+
+Testing:  queues should be empty at end
+
+Status : I have completed my Stage 7 and other updates based on the logic given.In addition 
+I tested whether queues are empty at the end and they are empty.
